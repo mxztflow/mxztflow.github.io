@@ -12,5 +12,33 @@
     <generator>Hugo -- 0.131.0</generator>
     <language>en</language>
     <atom:link href="https://xiaozhuangma.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Deepspeed</title>
+      <link>https://xiaozhuangma.github.io/tags/deepspeed/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://xiaozhuangma.github.io/tags/deepspeed/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Inference</title>
+      <link>https://xiaozhuangma.github.io/tags/inference/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://xiaozhuangma.github.io/tags/inference/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>LLM</title>
+      <link>https://xiaozhuangma.github.io/tags/llm/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://xiaozhuangma.github.io/tags/llm/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>NLP</title>
+      <link>https://xiaozhuangma.github.io/tags/nlp/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://xiaozhuangma.github.io/tags/nlp/</guid>
+      <description></description>
+    </item>
   </channel>
 </rss>

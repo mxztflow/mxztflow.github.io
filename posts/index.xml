@@ -11,7 +11,13 @@
     </image>
     <generator>Hugo -- 0.131.0</generator>
     <language>en</language>
-    <lastBuildDate></lastBuildDate>
     <atom:link href="https://xiaozhuangma.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>分布式训练</title>
+      <link>https://xiaozhuangma.github.io/posts/%E5%88%86%E5%B8%83%E5%BC%8F%E8%AE%AD%E7%BB%83/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://xiaozhuangma.github.io/posts/%E5%88%86%E5%B8%83%E5%BC%8F%E8%AE%AD%E7%BB%83/</guid>
+      <description>DeepSpeed 、流水线式推理过程</description>
+    </item>
   </channel>
 </rss>
