@@ -2,19 +2,27 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://xiaozhuangma.github.io/tags/lora/</loc>
+  </url><url>
     <loc>https://xiaozhuangma.github.io/archives.fr/</loc>
   </url><url>
     <loc>https://xiaozhuangma.github.io/archives/</loc>
+  </url><url>
+    <loc>https://xiaozhuangma.github.io/tags/attention/</loc>
   </url><url>
     <loc>https://xiaozhuangma.github.io/categories/</loc>
   </url><url>
     <loc>https://xiaozhuangma.github.io/tags/deepspeed/</loc>
   </url><url>
+    <loc>https://xiaozhuangma.github.io/tags/flash-attention/</loc>
+  </url><url>
     <loc>https://xiaozhuangma.github.io/tags/inference/</loc>
+  </url><url>
+    <loc>https://xiaozhuangma.github.io/tags/kv-cache/</loc>
   </url><url>
     <loc>https://xiaozhuangma.github.io/tags/llm/</loc>
   </url><url>
-    <loc>https://xiaozhuangma.github.io/archives/</loc>
+    <loc>https://xiaozhuangma.github.io/posts/llm%E5%8A%A0%E9%80%9F/</loc>
   </url><url>
     <loc>https://xiaozhuangma.github.io/tags/nlp/</loc>
   </url><url>
@@ -29,6 +37,8 @@
     <loc>https://xiaozhuangma.github.io/tags/</loc>
   </url><url>
     <loc>https://xiaozhuangma.github.io/categories/themes/</loc>
+  </url><url>
+    <loc>https://xiaozhuangma.github.io/tags/vllm/</loc>
   </url><url>
     <loc>https://xiaozhuangma.github.io/</loc>
   </url><url>
